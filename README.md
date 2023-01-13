@@ -1,4 +1,4 @@
-# Why github is not open source
+# Why Github.com is not open source
 
 Why github.com is NOT open-source?
 
