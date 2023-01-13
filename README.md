@@ -1,2 +1,6 @@
-# why_github_is_not_open_source
-Why github.com is NOT open-source???
+# Why github is not open source
+
+Why github.com is NOT open-source?
+
+Star the repo if you have the same question in mind.
+
